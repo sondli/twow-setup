@@ -2,9 +2,8 @@
 
 
 ## 🛠️ Installation
-This script makes it easy to install tDF, SuperWoW, SuperAPI, pfQuest-turtle, and pfQuest
+This script makes it easy to install tDF, SuperWoW, SuperAPI, pfQuest-turtle, and pfQuest on Linux
 
-#### TWOW-Setup Install
 1. Install twow from Lutris
 2. Download this script
 3. From a Terminal, cd back into the Rocky-Scripts folder: 
