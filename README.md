@@ -1,2 +1,2 @@
 # TWOW-Setup
-Installs SuperWoW, tDF, SuperAPI, pfQuest-turtle, and pfQuest
+Installs tDF, SuperWoW, SuperAPI, pfQuest-turtle, and pfQuest
