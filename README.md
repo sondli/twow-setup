@@ -1,4 +1,6 @@
 # TWOW-Setup
+![GitHub Release](https://img.shields.io/github/v/release/TheLinuxITGuy/TWOW-Setup?style=for-the-badge&labelColor=%231A365D&color=%23E9FC12)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/TheLinuxITGuy/TWOW-Setup/total?style=for-the-badge&labelColor=%231A365D&color=%23E9FC12)
 
 
 ## 🛠️ Installation
