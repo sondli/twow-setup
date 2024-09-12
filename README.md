@@ -13,3 +13,6 @@ This script makes it easy to install tDF, pfQuest, pfQuest-turtle, SuperAPI, and
     2. Type: `./TWOW-Setup.sh`
     3. Point Lutris to `SuperWoWlauncher.exe`
     4. Start Turtle WoW and enjoy
+
+## 💖 Donate
+https://www.paypal.com/donate/?hosted_button_id=WPTX2BMBARSG2
