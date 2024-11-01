@@ -17,12 +17,13 @@ declare -a ADDONS=(
 "balakethelock/SP_SwingTimer"
 "balakethelock/SuperAPI"
 "MarcelineVQ/Roid-Macros"
-"MarcelineVQ/TankPlates"
 "Lexiebean/AtlasLoot"
 "pepopo978/BetterCharacterStats"
 "tdymel/DPSMate"
 "laytya/KLHThreatMeter"
 "gwetchen/aux-addon-turtle"
+"mitjafelicijan/TurtleTweaks"
+"sondli/blockvalue"
 )
 
 #Install all addons
