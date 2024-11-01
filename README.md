@@ -1,6 +1,4 @@
 # twow-setup
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/sondli/twow-setup/total?style=for-the-badge&labelColor=%231A365D&color=%23E9FC12)
-
 ## 🛠️ Installation
 This script makes it easy to install your preferred addons and SuperWoW on Linux
 
