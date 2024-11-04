@@ -44,7 +44,7 @@ do
 		if [ -d "./aux-addon-turtle" ]; then
 			mv ./aux-addon-turtle ./aux-addon
 		fi
-		if [ -d "./DPSMate" ]; then
+		if [ $FOLDER == "DPSMate" ]; then
 			mv ./DPSMate ./DPSMateTEMP
 			mv ./DPSMateTEMP/* ./
 			rm -rf ./DPSMateTEMP
