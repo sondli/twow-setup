@@ -63,6 +63,19 @@ select yn in "Yes" "No"; do
 					wget https://github.com/balakethelock/SuperWoW/releases/download/Release/SuperWoW.release.${SUPERWOW_VERSION}.zip
 					unzip -o SuperWoW.release.${SUPERWOW_VERSION}.zip
 					rm SuperWoW.release.${SUPERWOW_VERSION}.zip; break;;
+        No ) break;;
+    esac
+done
+
+# Install NoErrorSounds
+echo "Do you wish to install NoErrorSounds?"
+select yn in "Yes" "No"; do
+    case $yn in
+        Yes ) 
+					cd "$TWOW_DIR"
+					wget https://github.com/mrrosh/No_Error_Sounds/files/9438022/Sound.zip
+					unzip -o Sound.zip
+					rm Sound.zip; break;;
         No ) exit;;
     esac
 done
