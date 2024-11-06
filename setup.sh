@@ -25,6 +25,7 @@ declare -a ADDONS=(
 "gwetchen/aux-addon-turtle"
 "mitjafelicijan/TurtleTweaks"
 "sondli/blockvalue"
+"MarcelineVQ/TankPlates"
 )
 
 #Install all addons
