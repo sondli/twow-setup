@@ -54,7 +54,7 @@ do
 done
 
 # Install SuperWoW
-SUPERWOW_VERSION="1.1.3"
+SUPERWOW_VERSION="1.2"
 echo "Do you wish to install SuperWoW ${SUPERWOW_VERSION}?"
 select yn in "Yes" "No"; do
     case $yn in
